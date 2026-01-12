@@ -2,10 +2,10 @@
 
  - 👩‍💻 Im **Lina** and I'm a Computer Science Student at George Mason University
 
-**Personal Info**
-- 📍 Based in Washington, DC
-- ✦ Interested in software engineering, research, and machine learning
-- 💼 Former Cyber Security Research Intern @ SYSUSA
+**Personal Info ⋆｡˚ ☁︎ ˚｡⋆**
+- Based in Washington, DC
+- Interested in software engineering, research, and machine learning
+- Former Cyber Security Research Intern @ SYSUSA
 
 
      
@@ -14,8 +14,9 @@
 - ![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java)
 - ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
 
+⤹｡⋆ Outside of school and work, I'm interested in gaming, the gym, photography, and researching random topics!
 
-**⋆｡˚ ☁︎ ˚｡⋆  Links 🌐**                              
+**Links 🌐**                              
 
 
 - **LinkedIn:** [lina](https://www.linkedin.com/in/01101100-ina/)
