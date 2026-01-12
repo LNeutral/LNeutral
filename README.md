@@ -14,7 +14,7 @@
 - ![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java)
 - ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
 
-⤹｡⋆ Outside of school and work, I'm interested in gaming, the gym, photography, and researching random topics!
+⤹｡⋆ Outside of school and work, I'm interested in gaming, the gym, latte art, and researching random topics!
 
 **Links  ๋࣭ ⭑✮💻₊ ⊹**                              
 
