@@ -19,7 +19,7 @@
 **Links  ๋࣭ ⭑✮💻₊ ⊹**                              
 
 
-- **LinkedIn:** [lina](https://www.linkedin.com/in/01101100-ina/)
+- **LinkedIn:** 
 - **Portfolio:** _coming soon . . ._
 
 ⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
