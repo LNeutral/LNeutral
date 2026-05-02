@@ -4,7 +4,7 @@
 
 **Personal Info ⋆｡˚ ☁︎ ˚｡⋆**
 - Based in Washington, DC
-- Interested in software engineering, research, and machine learning
+- Interested in Full-Stack development, machine learning, and creative coding
 - Former Cyber Security Research Intern @ SYSUSA
 
 
